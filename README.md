@@ -1,9 +1,32 @@
 # Simple shell README
 <br>
-## Description: 
+## Description:<br> 
 SimpleShell is a lightweight and user-friendly shell implementation for Unix-like operating systems. <br>
 It provides a simple command-line interface for executing basic shell commands, such as navigating directories, creating and deleting files, and running external programs.<br>
 SimpleShell is designed to be easy to use and to provide a minimal set of features for users who prefer a more straightforward shell experience.<br>
+<br>
+To compile and run a C program using GCC, follow these steps:
+<br>
+Open a terminal window and navigate to the directory where your C source code file is located.
+<br>
+Type the following command to compile your source code file:
+<br>
+Copy code<br>
+`gcc -o program_name *.c`<br>
+Replace "program_name" with the name you want to give to your executable file. The asterisk (*) symbol means that all C files in the current directory will be compiled together.
+<br>
+Press Enter to execute the command. If there are no errors, GCC will create an executable file with the name you specified in step 2.
+<br>
+To run your program, type the following command in the terminal:
+<br>
+bash<br>
+Copy code<br>
+`./program_name`<br>
+Replace "program_name" with the name you gave to your executable file in step 2.
+<br>
+Press Enter to execute the command. Your program will now run in the terminal window.
+<br>
+That's it! By following these steps, you can easily compile and run a C program using GCC.
 <br>
 <br>
 ## License: 
@@ -12,7 +35,7 @@ SimpleShell is licensed under the GNU General Public License (GPL), which is a w
 This license guarantees that SimpleShell remains free and open-source, and that any modifications or improvements made to the software are also made available to the public under the same terms.<br>
 <br>
 <br>
-##Authors:
+## Authors:
 <br>
 1. Miriam Ngugi - [miriam-ngugi](https://github.com/Miriam-Ngugi)<br>
 2. Chris Macharia- [chriss-macharia](https://github.com/chris-macharia)
