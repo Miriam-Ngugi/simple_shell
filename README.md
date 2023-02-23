@@ -1,5 +1,4 @@
-# Simple shell README
-<br>
+# Simple shell README<br>
 ## Description:<br> 
 SimpleShell is a lightweight and user-friendly shell implementation for Unix-like operating systems. <br>
 It provides a simple command-line interface for executing basic shell commands, such as navigating directories, creating and deleting files, and running external programs.<br>
