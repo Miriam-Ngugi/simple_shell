@@ -15,7 +15,6 @@ To compile and run a C program using GCC, follow these steps:
 `./program_name`<br>
 * Replace "program_name" with the name you gave to your executable file in step 2.<br>
 5. Press Enter to execute the command. Your program will now run in the terminal window.<br>
-<br>
 That's it! By following these steps, you can easily compile and run a C program using GCC.<br>
 ## License:<br>
 SimpleShell is licensed under the GNU General Public License (GPL), which is a widely used free software license that ensures users have the freedom to use, modify, and distribute the software.<br>
